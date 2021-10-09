@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Fashion TV Midnite Secrets" tvg-logo="https://assets.streamtest.in/logo/3234/203_fashion-tv-midnite-secrets.jpg?v=1577270478", Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",FASHION TV
+http://ky-tv.cc:25461/cde123/cde123/384362?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",FASHION TV
+http://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",Fashion TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/165487?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ;SK" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" group-title="Fashion;Undefined",Fashion TV,FashionTV Czech&Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",FASHION TV HD
+http://bazarhd.online:80/2993289990/5002883998/79543?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",FASHION TV HD
+http://bazarhd.online:80/2993289990/5002883998/79746?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",FASHION TV HD
+http://pn.tvott.info:80/1932742343/4458181593/79746?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Fashion TV FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13993?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Fashion TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/13993?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FASHION TV
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/33632?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FASHION TV HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2656?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Fashion TV PT
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/9495?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",FASHION TV HD
+http://ky-tv.cc:25461/cde123/cde123/499074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/HBksX8u.png" group-title="Undefined",Fashion TV
+http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",Fashion TV HD UK
+http://tv.deluxetv.tvip.xyz:80/gLtM2aiLsZ734/ZGUakZ075/21120?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",Fashion TV HD UK
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/21120?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",Odessa Fashion TV
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Fashion TV
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="Undefined",Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Undefined",Fashion TV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Undefined",Fashion TV
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Fashion TV (England)
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Fashion TV (Italy)
+https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Fashion TV (Spain)
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Fashion TV (Slovakia)
+http://80.94.54.42/fashiontv/stream/playlist.m3u8?checkedby:iptvcat.com
